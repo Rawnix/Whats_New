@@ -11,6 +11,6 @@ You need to get a key and assign that as a string to property named '*tmdbAPIkey
 
 ```
 var apiConfig = {
-  tmdbAPIkey: '<API key>';
+  tmdbAPIkey: '<API key>',
 };
 ```
