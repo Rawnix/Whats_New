@@ -1,6 +1,6 @@
 ### What's New
 
-shows upcoming movies, songs etc.
+Displays latest and upcoming movies, songs etc.
 
 **How to Set up:**
 
